@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'jekyll-toc'
+    gem 'jekyll-scholar'
     gem 'faraday-retry'
     gem 'classifier-reborn'
     gem 'jekyll'
@@ -14,7 +15,6 @@ group :jekyll_plugins do
     gem 'jekyll-link-attributes'
     gem 'jekyll-minifier'
     gem 'jekyll-paginate-v2'
-    gem 'jekyll-scholar'
     gem 'jekyll-sitemap'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
