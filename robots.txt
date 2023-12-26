@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pavan.github.io/sitemap.xml
+Sitemap: https://pawanhv.github.io/sitemap.xml
