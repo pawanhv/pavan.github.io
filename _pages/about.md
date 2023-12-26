@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Ingénieur Mécanique Freelance - Votre Partenaire de Confiance pour l'Excellence Technique 
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Condé en Normandie</p>
+    <p>Condé en Normandie,</p>
     <p>France</p>
 
 
@@ -19,8 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Diplômé d'un master en ingénierie des matériaux de `l'Arts et Métiers Paristech` et titulaire d'une licence en ingénierie automobile obtenue en Inde, mon parcours académique repose sur une base diversifiée. Originaire d'Inde, j'ai intégré de manière fluide le paysage professionnel français au cours des 14 dernières années.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Animé par une passion pour l'innovation et doté d'un sens aigu de la précision, mon expertise réside dans le domaine de l'ingénierie des matériaux. Mon bagage académique, associé à une expérience pratique, me permet de naviguer dans les subtilités du domaine, garantissant l'excellence dans chaque entreprise.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+J'apporte une perspective globale à mon travail, fusionnant la richesse de mon héritage indien avec le raffinement de mon expérience professionnelle française. Engagé dans l'avancement des frontières technologiques, je suis impatient de contribuer mes compétences et connaissances à des projets collaboratifs. Embarquons ensemble dans une aventure d'innovation..
