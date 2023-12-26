@@ -1,11 +1,11 @@
 ---
 layout: cv
 permalink: /cv/
-title: cv
+title: Curriculum Vitae (CV)
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+cv_pdf: phv.pdf
+description: Ingénieur expérimenté en conception mécanique, dédié et axé sur les résultats, avec une expérience avérée. Recherche une opportunité pour mettre à profit mon expertise au sein d'une entreprise dynamique et innovante.
 toc:
   sidebar: left
 ---
