@@ -51,7 +51,7 @@ layout: default
 
     </p>
   </header>
-  
+
 <article class="post-content">
   {% if page.toc and page.toc.beginning %}
     <div id="table-of-contents">
@@ -69,9 +69,10 @@ layout: default
   {% assign publications = page.related_publications | replace: ", ", "," | split: "," | join: "|" %}
   <h2>References</h2>
   <div class="publications">
-    {% bibliography -f {{ site.scholar.bibliography }} -q @*[key^={{ publications }}]* %}
+    {% bibliography -f site.scholar.bibliography -q "@*[key^=#{publications}]*" %}
   </div>
   {%- endif %}
+
 
   {%- if site.related_blog_posts.enabled -%}
     {%- if page.related_posts == null or page.related_posts -%}
